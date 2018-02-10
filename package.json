@@ -1,0 +1,21 @@
+{
+  "name": "recipe-search",
+  "version": "1.0.0",
+  "description": "Web-based food recipe search tool",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raywongjr/recipe-search.git"
+  },
+  "author": "@raywongjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raywongjr/recipe-search/issues"
+  },
+  "homepage": "https://github.com/raywongjr/recipe-search#readme"
+}
