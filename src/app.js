@@ -7,7 +7,7 @@ class RecipeApp extends Component {
     render() {
         return (
             <div>
-                <h1>Find Your Recipes</h1>
+                <h1>Search</h1>
                 <RecipeSearch />
             </div>
         );
